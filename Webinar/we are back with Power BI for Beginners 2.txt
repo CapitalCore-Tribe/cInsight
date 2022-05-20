@@ -9,8 +9,8 @@ Register here --- https://cinsight.xyz/pbi
 Registration is FREE.
 
 Features:
-* The session was made simple just for you
-* No prior knowledge needed
+* The session will be made simple for you
+* No prior knowledge is needed
 * No registration fee
 * Gain 1000 XP (Experience Points) on Microsoft Learn
 * Build a simple report in Power BI
@@ -31,3 +31,5 @@ Register here --- https://cinsight.xyz/pbi
 Our previous sessions are now available on YouTube, click here to watch https://bit.ly/cInsightYT
 
 Remember to share with a friend, see you on Friday!
+
+
